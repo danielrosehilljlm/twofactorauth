@@ -38,6 +38,13 @@ websites:
       - sms
     doc: https://www.alliantcreditunion.org/help/how-does-alliant-two-factor-authentication-work
 
+  - name: Allied Irish Banks (AIB)
+    url: https://www.aib.ie
+    img: AIB.png
+    tfa:
+      - totp
+    doc: https://aib.ie/psd2
+
   - name: Ally Bank
     url: https://www.ally.com/
     img: allybank.png
